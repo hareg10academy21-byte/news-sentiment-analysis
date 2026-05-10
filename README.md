@@ -1,6 +1,6 @@
 # News Sentiment Analysis
 
-Week 1 Challenge - 10 Academy
+Week 1 Challenge - 10 Academy.
 
 ## Objective
 Analyze financial news sentiment and correlate with stock price movements.
